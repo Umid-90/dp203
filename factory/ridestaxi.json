@@ -1,0 +1,9 @@
+{
+	"name": "ridestaxi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0767e582-7374-44cc-a67e-f2b332508ea4",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
